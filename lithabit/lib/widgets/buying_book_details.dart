@@ -58,7 +58,7 @@ class BuyingBookDetails extends StatelessWidget {
                       ),
                     );
                   },
-                  child: const Icon(Icons.payment, size: 40),
+                  child: const Icon(Icons.payment, size: 39),
                 ),
               ],
             ),
